@@ -15,3 +15,9 @@ python hw4.py train.csv test.csv 1|2|3|4|5
 4 for BS
 5 for SVM
 
+In the figures given in Analysis*.png files, you can see how the models behave as different parameters are changed:
+
+1 Training set size
+2 Feature set size
+3 Depth limit (number of levels in the trees)
+4 Number of trees
