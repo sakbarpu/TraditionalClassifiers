@@ -15,3 +15,5 @@ Please look at the individual folders README files for instructions on how to ru
 Notice that all algorithms are implemented from scratch without using off-the-shelf libraries.
 
 The reason why you are seeing "hw" is actually because the implementations were part of the homeworks in a course I took.
+
+The book to follow when implementing these algorithms is "Principles of Data Mining" by David Hand et al.
