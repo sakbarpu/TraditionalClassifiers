@@ -1,0 +1,12 @@
+python subs/solution/nbc.py yelp_train0.txt yelp_test0.txt
+WORD1 delicious
+WORD2 has
+WORD3 dinner
+WORD4 first
+WORD5 do
+WORD6 off
+WORD7 never
+WORD8 little
+WORD9 much
+WORD10 come
+ZERO-ONE-LOSS 0.143333333333

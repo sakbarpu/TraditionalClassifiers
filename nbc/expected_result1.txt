@@ -1,0 +1,12 @@
+python subs/solution/nbc.py yelp_train1.txt yelp_test1.txt
+WORD1 people
+WORD2 them
+WORD3 off
+WORD4 ever
+WORD5 over
+WORD6 delicious
+WORD7 experience
+WORD8 worth
+WORD9 again
+WORD10 amazing
+ZERO-ONE-LOSS 0.11
